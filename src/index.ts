@@ -10,6 +10,8 @@ app.listen(3000, () => {
     console.log("Server running at port 3000");
 });
 
+// export const suma = (a: number, b: number) => a + b;
+
 // App para registro de usuarios y envio de correos
 
 // Domain layer
